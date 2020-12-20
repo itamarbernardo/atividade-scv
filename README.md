@@ -9,4 +9,8 @@
     <td>Rodrigo Andrade</td>
     <td>Maceio</td>
   </tr>
+  <tr>
+    <td>Itamar Bernardo</td>
+    <td>Bom Conselho</td>
+  </tr>
 </table>
